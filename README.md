@@ -7,7 +7,7 @@ require_once 'Database.php';
 $db = new Database('your_host', 'your_username', 'your_password', 'your_database');
 ````
 ## Examples
-[View Examples]("https://github.com/Meysamnoori019/Mysqli-Class/blob/main/example.php")
+[View Examples]("github.com/Meysamnoori019/Mysqli-Class/example.php")
 
 
 ## Author
