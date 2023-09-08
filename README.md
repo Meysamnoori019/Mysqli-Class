@@ -7,7 +7,7 @@ require_once 'Database.php';
 $db = new Database('your_host', 'your_username', 'your_password', 'your_database');
 ````
 ## Examples
-[View Examples]("example.php")
+[View Examples](example.php)
 
 
 ## Author
